@@ -1,0 +1,11 @@
+[00:00:43]: [Join Announcement] HT🦎Lin
+[00:03:01]: [Join Announcement] candycandy772
+[00:46:15]: [Skin Announcement] candycandy772 feet_webber_nature
+[02:10:15]: [Skin Announcement] candycandy772 legs_jeans_navy_ocean
+[02:58:15]: [Skin Announcement] candycandy772 hand_longgloves_black_scribble
+[03:04:04]: [Death Announcement] HT🦎Lin 死於： 獵犬。她變成了可怕的鬼魂！
+[03:05:31]: [Resurrect Announcement] HT🦎Lin 復活自： 絢麗之門.
+[03:17:24]: [Death Announcement] HT🦎Lin 死於： 皇家兔子警衛。她變成了可怕的鬼魂！
+[03:18:01]: [Resurrect Announcement] HT🦎Lin 復活自： 絢麗之門.
+[03:45:22]: [Leave Announcement] candycandy772
+[03:46:55]: [Leave Announcement] HT🦎Lin

@@ -1,0 +1,34 @@
+[00:00:42]: [Join Announcement] HTLin_the_Lizard
+[00:08:17]: [Join Announcement] candycandy772
+[00:08:51]: [Join Announcement] Vik
+[00:16:56]: [Death Announcement] HTLin_the_Lizard 死於： 饑餓。她變成了可怕的鬼魂！
+[00:17:09]: [Resurrect Announcement] HTLin_the_Lizard 復活自： 絢麗之門.
+[00:23:32]: [Skin Announcement] Vik hand_wortox_pirate
+[00:27:48]: [Leave Announcement] candycandy772
+[00:42:17]: [Join Announcement] candycandy772
+[00:44:09]: [Death Announcement] HTLin_the_Lizard 死於： 觸手。她變成了可怕的鬼魂！
+[00:45:26]: [Death Announcement] Vik 死於： 凍傷。他變成了可怕的鬼魂！
+[00:46:23]: [Resurrect Announcement] HTLin_the_Lizard 復活自： 絢麗之門.
+[00:46:31]: [Resurrect Announcement] Vik 復活自： 絢麗之門.
+[01:06:33]: [Skin Announcement] candycandy772 body_trimmed_blouse_blue_sky
+[01:07:07]: [Death Announcement] Vik 死於： 凍傷。他變成了可怕的鬼魂！
+[01:07:57]: [Resurrect Announcement] Vik 復活自： 絢麗之門.
+[01:33:58]: [Death Announcement] Vik 死於： 凍傷。他變成了可怕的鬼魂！
+[01:39:47]: [Death Announcement] HTLin_the_Lizard 死於： 魚人。她變成了可怕的鬼魂！
+[01:40:22]: [Death Announcement] candycandy772 死於： 蜘蛛女王。她變成了可怕的鬼魂！
+[01:40:43]: [Resurrect Announcement] HTLin_the_Lizard 復活自： 絢麗之門.
+[01:41:25]: [Resurrect Announcement] Vik 復活自： 絢麗之門.
+[01:42:22]: [Death Announcement] Vik 死於： 獵犬。他變成了可怕的鬼魂！
+[01:42:34]: [Resurrect Announcement] Vik 復活自： 絢麗之門.
+[01:45:22]: [Resurrect Announcement] candycandy772 復活自： 絢麗之門.
+[02:05:18]: [Join Announcement] 天才阿波
+[02:06:10]: [Skin Announcement] candycandy772 wilson_beard_pigguard
+[02:18:25]: [Death Announcement] Vik 死於： 凍傷。他變成了可怕的鬼魂！
+[02:22:06]: [Resurrect Announcement] Vik 復活自： 絢麗之門.
+[02:22:13]: [Death Announcement] Vik 死於： 眼球草。他變成了可怕的鬼魂！
+[02:25:28]: [Leave Announcement] Vik
+[02:46:12]: [Leave Announcement] 天才阿波
+[03:12:37]: [Death Announcement] HTLin_the_Lizard 死於： 眼球草。她變成了可怕的鬼魂！
+[03:13:14]: [Resurrect Announcement] HTLin_the_Lizard 復活自： 絢麗之門.
+[04:18:38]: [Leave Announcement] candycandy772
+[04:18:41]: [Leave Announcement] HTLin_the_Lizard

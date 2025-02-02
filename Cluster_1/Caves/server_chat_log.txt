@@ -1,0 +1,14 @@
+[00:00:41]: [Join Announcement] HTLin_the_Lizard
+[00:01:19]: [Join Announcement] candycandy772
+[00:02:05]: [Death Announcement] HTLin_the_Lizard 死於： 紅色獵犬。她變成了可怕的鬼魂！
+[00:04:30]: [Resurrect Announcement] HTLin_the_Lizard 復活自： 絢麗之門.
+[00:49:36]: [Skin Announcement] candycandy772 body_tshirt_red_higgsbury
+[02:01:36]: [Skin Announcement] candycandy772 hand_longgloves_white_pure
+[02:59:54]: [Death Announcement] candycandy772 死於： 蜘蛛。她變成了可怕的鬼魂！
+[02:59:57]: [Leave Announcement] candycandy772
+[03:01:29]: [Join Announcement] candycandy772
+[03:03:48]: [Resurrect Announcement] candycandy772 復活自： 絢麗之門.
+[03:21:51]: [Skin Announcement] candycandy772 feet_wendy_gladiator
+[04:09:51]: [Skin Announcement] candycandy772 legs_swing_pants_navy_midnight
+[04:18:41]: [Leave Announcement] candycandy772
+[04:25:17]: [Leave Announcement] HTLin_the_Lizard
